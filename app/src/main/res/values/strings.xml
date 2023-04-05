@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Login -->
+    <string name="enter_email" translatable="false">Email</string>
+    <string name="enter_pwd" translatable="false">Password</string>
+    <string name="login" translatable="false">Log in</string>
+    <string name="pop_up_message" translatable="false">Please provide email and password</string>
+    <string name="pop_up_message_ok" translatable="false">OK</string>
+    <string name="welcome_title" translatable="false">Welcome back</string>
+    <string name="welcome_caption" translatable="false">Log in to your student beans account</string>
+
+    <!-- Toolbar -->
+    <string name="tool_bar_photo" translatable="false">Photos</string>
+
+    <!-- Card holder  -->
+    <string name="card_holder" translatable="false">some text</string>
+</resources>
